@@ -47,8 +47,8 @@ The primary goal is to leverage data insights to drive personalized marketing st
 
 ### 3\. Clustering
 
-  * Several clustering algorithms were explored, including K-Means, Agglomerative Clustering, DBSCAN, and Gaussian Mixture Models (GMM)[cite: 185].
-  * The optimal number of clusters was determined to be four using the Elbow Method[cite: 182].
+  * Several clustering algorithms were explored, including K-Means, Agglomerative Clustering, DBSCAN, and Gaussian Mixture Models (GMM).
+  * The optimal number of clusters was determined to be four using the Elbow Method.
   * **Final Model:** K-Means was selected as the final model due to its efficiency, scalability, and clear centroid-based representation, making it suitable for production environments. The model achieved a Silhouette Score of 0.62.
 
 ## Results: Customer Segments
